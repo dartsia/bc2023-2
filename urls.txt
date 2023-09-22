@@ -1,1 +1,2 @@
 http://backend.course/#dartsia
+http://backend.course/?name=%22%D0%9D%D0%B8%D1%87%D0%B8%D1%81%D0%BD%D1%8E%D0%BA%20%D0%94%D0%B0%D1%80%D1%96%D1%8F%22&github_name=dartsia&group=%22%D0%A4%D0%95%D0%86-26%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22
